@@ -6,6 +6,6 @@
 - Developed **GUARDIAN**, an AI-powered fake profile detection system.  
 - Presented & Awarded a mini-project on **Smart Health Monitoring for Non-Communicable Diseases** technical symposiums.  
 - 🤝 Open to collaborating on projects related to **AI**, **Data Science**, **Generative AI**, and **EdTech solutions**.  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/anbazhagan-r-5121a3275/).  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/anbazhagan-r-5121a3275/) .  
 
  
